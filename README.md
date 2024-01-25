@@ -11,7 +11,7 @@
 
 - React Mini Project [http://reactpractice231116.store/](http://reactpractice231116.store/)
 
-- lecture101 원데이클레스 매칭 웹개발 프로젝트 [발표]([http://reactpractice231116.store/](https://chiseled-shelf-acc.notion.site/1-9821b336ad634529971e5d8e8fdb306e?pvs=4))
+- lecture101 원데이클레스 매칭 웹개발 프로젝트 [발표영상](https://chiseled-shelf-acc.notion.site/1-9821b336ad634529971e5d8e8fdb306e?pvs=4)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
