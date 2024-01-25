@@ -2,10 +2,8 @@
 <h3 align="left">A Web/App developer from Korea</h3>
 
 - 🔭 I’m currently working on [Launching Jeju_Tour App](https://play.google.com/store/apps/details?id=com.jeju_tour.visit_jeju_app/apps/details?id=com.jeju_tour.visit_jeju_app)
-
-- 🌱 I’m currently learning **Data Analysis and Visualization**
-
-- 👨‍💻 All of my projects are available at [https://bit.ly/sapioJS](https://bit.ly/sapioJS)
+  
+- 👨‍💻 My portfolio [https://bit.ly/sapioJS](https://bit.ly/sapioJS)
 
 - 📫 How to reach me **freedomseok@gmail.com**
 
