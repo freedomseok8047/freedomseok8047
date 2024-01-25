@@ -9,7 +9,9 @@
 
 - Jeju_Tour 앱 테스트를 희망하시는 분 이메일 부탁드립니다. [Play Store Link](https://play.google.com/store/apps/details?id=com.jeju_tour.visit_jeju_app/apps/details?id=com.jeju_tour.visit_jeju_app)
 
-- React Mini Project [http://reactpractice231116.store/](http://reactpractice231116.store/) 
+- React Mini Project [http://reactpractice231116.store/](http://reactpractice231116.store/)
+
+- lecture101 원데이클레스 매칭 웹개발 프로젝트 [발표]([http://reactpractice231116.store/](https://chiseled-shelf-acc.notion.site/1-9821b336ad634529971e5d8e8fdb306e?pvs=4))
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
