@@ -7,6 +7,11 @@
 
 - 📫 How to reach me **freedomseok@gmail.com**
 
+- Jeju_Tour 앱 테스트를 희망하시는 분 이메일로 연락주세요.
+- https://play.google.com/store/apps/details?id=com.jeju_tour.visit_jeju_app/apps/details?id=com.jeju_tour.visit_jeju_app
+
+- React Mini Project [http://reactpractice231116.store/](http://reactpractice231116.store/) 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
