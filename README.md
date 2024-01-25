@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Junseok Lee</h1>
-<h3 align="center">A Web/App developer from Korea</h3>
+<h1 align="left">Hi 👋, I'm Junseok Lee</h1>
+<h3 align="left">A Web/App developer from Korea</h3>
 
 - 🔭 I’m currently working on **Launching Jeju_Tour App**
 
