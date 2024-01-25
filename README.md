@@ -1,7 +1,13 @@
-### Hi there👋 I'm Junseok Lee, Developer
-
+### Hi there👋 
+### I'm Junseok Lee, Web/App Developer
 - 포트폴리오 : https://bit.ly/sapioJS 
+- 제주여행정보 제공 Android 앱 **Jeju_Tour** 출시.
 - Play Store Jeju_Tour앱 다운로드 : https://play.google.com/store/apps/details?id=com.jeju_tour.visit_jeju_app
+- AWS 원격서버(Spring서버 & DB) 배포. 로컬서버 대비, 데이터 트래픽 85%이상 감축
+- IT교육과정(7개월) 중 3번의 프로젝트 + 개인 프로젝트 진행중
+- 메타인지를 갖춘 T형 인재, 영여회화 능력 상
+
+
 <!--
 **freedomseok8047/freedomseok8047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
