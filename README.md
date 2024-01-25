@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **freedomseok@gmail.com**
 
-- Jeju_Tour 앱 테스트를 희망하시는 분 이메일로 연락주세요.
-- https://play.google.com/store/apps/details?id=com.jeju_tour.visit_jeju_app/apps/details?id=com.jeju_tour.visit_jeju_app
+- Jeju_Tour 앱 테스트를 희망하시는 분 이메일 부탁드립니다. [Play Store Link](https://play.google.com/store/apps/details?id=com.jeju_tour.visit_jeju_app/apps/details?id=com.jeju_tour.visit_jeju_app)
 
 - React Mini Project [http://reactpractice231116.store/](http://reactpractice231116.store/) 
 
