@@ -1,4 +1,4 @@
-### Hi there, I'm Junseok Lee, Developer👋
+### Hi there👋 I'm Junseok Lee, Developer
 
 - 포트폴리오 : https://bit.ly/sapioJS 
 - Play Store Jeju_Tour앱 다운로드 : https://play.google.com/store/apps/details?id=com.jeju_tour.visit_jeju_app
